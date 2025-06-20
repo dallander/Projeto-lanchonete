@@ -1,2 +1,4 @@
-# Projeto-lanchonete
-Apenas BACKEND por aqui shsh
+
+=======
+{\rtf1}
+>>>>>>> 3f3b6e2 (Criado arquivos básicos e diretórios projeto lanchonete)
